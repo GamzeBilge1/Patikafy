@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.exe
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.deps.json
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.runtimeconfig.json
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.dll
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.pdb
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.sourcelink.json
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.dll
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\refint\Patikafy.dll
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.pdb
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Patikafy\Patikafy\obj\Debug\net8.0\ref\Patikafy.dll
